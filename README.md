@@ -2,11 +2,11 @@
 
 Unofficial maintenance of **Town Road Lane — Road Markings by mxerf**, maintained by **SkyEagle** (GitHub: SkyEagleG). This is not an official update by mxerf.
 
-**Candidate 2.5.0.1: release preparation and compatibility investigation in progress. No Paradox release has been published.**
+**Release 2.5.0.1 is published on [Paradox Mods](https://mods.paradoxplaza.com/mods/163405/Windows), by Sky Eagle. Enable it instead of the original or the local testing package.**
 
 ## Source
 
-Download **Community-Hotfix-Source.zip** in this repository for the complete candidate source tree, original license, build instructions, repair report (HOTFIX.md), tests, and test procedure. It corresponds to candidate source commit `7df4c79584940a649a1dfbf47dcc925c40cab87c`, based on upstream `6ffd1e874ab70e60834e76ad15cae08508d991a8` (2.5.0). The archive is source, not an installer. Its embedded test-status documents describe the build-time snapshot; the newer status below takes precedence for gameplay progress. Build with the official CS2 modding toolchain and the UI lockfile dependencies as documented inside. Game/toolchain reference assemblies are not redistributed.
+Download **[Community-Hotfix-Source.zip](https://github.com/SkyEagleG/town-road-lane-community-hotfix/raw/refs/heads/main/Community-Hotfix-Source.zip)** for the complete source tree used for the hotfix code, original license, build instructions, repair report (HOTFIX.md), tests, and test procedure. It corresponds to candidate source commit `7df4c79584940a649a1dfbf47dcc925c40cab87c`, based on upstream `6ffd1e874ab70e60834e76ad15cae08508d991a8` (2.5.0). The archive is source, not an installer. Its embedded test-status documents describe the build-time snapshot; the newer status below takes precedence for gameplay progress. Build with the official CS2 modding toolchain and the UI lockfile dependencies as documented inside. Game/toolchain reference assemblies are not redistributed.
 
 Original repository: https://github.com/mxerf/town-road-lane
 
@@ -30,4 +30,4 @@ SkyEagle directed goals, reviewed presented results, and performed the reported 
 
 This is an interim community maintenance effort. A working upstream update will prompt reassessment. We intend to honor an original-author request to withdraw the listing and explain the transition; save transfer still requires testing. This policy does not change the GPL license.
 
-Use this repository's Issues for reproducible hotfix reports. Do not post private account details, tokens, or unreviewed complete game logs. Binary release and final support scope remain pending.
+Use this repository's Issues for reproducible hotfix reports. Do not post private account details, tokens, or unreviewed complete game logs. The published binary is distributed through Paradox Mods. The archive retains its original build-time publication settings; later listing-only corrections do not change the mod code.
