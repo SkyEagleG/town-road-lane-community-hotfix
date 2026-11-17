@@ -2,7 +2,7 @@
 
 Unofficial maintenance of **Town Road Lane — Road Markings by mxerf**, maintained by **SkyEagle** (GitHub: SkyEagleG). This is not an official mxerf update.
 
-**2.5.0.2 for Windows Cities: Skylines II 1.6.4f1 is prepared; the Paradox upload is pending the publisher account switch.** The existing [Paradox Mods listing](https://mods.paradoxplaza.com/mods/163405/Windows) belongs to **Sky Eagle**. Enable one replacement only: do not load the original, published hotfix and local test copy together.
+**Release 2.5.0.2 for Windows Cities: Skylines II 1.6.4f1 is published on [Paradox Mods](https://mods.paradoxplaza.com/mods/163405/Windows), by Sky Eagle.** Enable one replacement only: do not load the original, published hotfix and local test copy together.
 
 ## Source downloads
 
@@ -40,4 +40,4 @@ Use Issues for reproducible reports, including the game/mod version, triggering 
 - Added revision-sensitive area diagnostics with rapid-edit throttling and state cleanup, without changing geometry, retry behavior or saved layouts.
 - Reconciled the separate audit; retained verified scheduler/component-dependency handling.
 - Passed 31 focused tests, frontend and official build checks; documented maintainer gameplay/save/restart results and the single triangulation fallback.
-- Updated the corresponding public source and Paradox description draft; publication status is stated above.
+- Published the matching Paradox update and description, with the update log at the bottom; corresponding current and historical source archives remain available here.
